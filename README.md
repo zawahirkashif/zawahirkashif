@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="50%" height="auto"  src="https://github.com/zawahirkashif/zawahirkashif/blob/478c1ffb7a9d0ab01c1502eb923073eae3f0cf95/images/02-512.png"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zawahir</h1>
-<h3 align="center">I'm a passionate Python Developer from Pakistan.</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zawahir</h1>
+<h3 align="left">I'm a passionate Python Developer from Pakistan.</h3>
 
 
 ## 🙋‍♂️ About Me
